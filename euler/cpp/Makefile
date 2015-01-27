@@ -1,4 +1,4 @@
-F = one.cpp
+F = fiboeven.cpp
 CPP = g++
 CFLAGS = -Wall
 
