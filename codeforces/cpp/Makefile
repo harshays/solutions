@@ -1,4 +1,4 @@
-F = 501b.cpp
+F = fbhrA.cpp
 EXE = program
 EXER = ./program
 
